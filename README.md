@@ -12,7 +12,7 @@ const Julioadriglez{
   lastName: 'Gonzalez',
   title: ['FullStack Developer Jr (NodeJs)'],
   hardSkills: {
-    frontend: ['UX/UI', 'miro', 'Trello', 'Git', 'GitHub', 'HTML5', 'CSS3', 'Javascript'],
+    frontend: ['UX/UI', 'Miro', 'Trello', 'Git', 'GitHub', 'HTML5', 'CSS3', 'Javascript'],
     backend: ['NodeJs', 'ExpressJs', 'CORS', 'Prisma', 'PostgreSQL', 'GitHub Actions', 'Jest'],
     },
   softSkills: ['Collaboration', 'Team Work', 'Communication'],
@@ -61,7 +61,7 @@ const Julioadriglez{
 ### Additionals tools:
 <table>
   <tr align="center">
-    <td width="100px"><strong>Figma</strong></td>
+    <td width="100px"><strong>Miro</strong></td>
     <td width="100px"><strong>Trello</strong></td>
     <td width="100px"><strong>Visual Studio</strong></td>
     <td width="100px"><strong>Git</strong></td>
@@ -72,7 +72,7 @@ const Julioadriglez{
     <td width="100px"><strong>TDD Jest</strong></td>
   </tr>
   <tr align="center" height="60px">
-    <td><img height="40px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg"></td>
+    <td><img height="40px" src="https://cdn.worldvectorlogo.com/logos/miro-1.svg"></td>
     <td><img height="40px" src="https://cdn.worldvectorlogo.com/logos/trello.svg"></td>
     <td><img height="40px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></td>
     <td><img height="40px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></td>
