@@ -1,4 +1,4 @@
-### Hola, Soy Julio Adrian Gonzalez👋
+### Hi, i´m Julio Adrian Gonzalez👋
 
 <div align="center">
   
