@@ -13,7 +13,7 @@ const Julioadriglez{
   title: ['FullStack Developer Jr (NodeJs)'],
   hardSkills: {
     frontend: ['UX/UI', 'Miro', 'Trello', 'Git', 'GitHub', 'HTML5', 'CSS3', 'Javascript'],
-    backend: ['NodeJs', 'ExpressJs', 'CORS', 'Prisma', 'PostgreSQL', 'GitHub Actions', 'Jest'],
+    backend: ['NodeJs', 'ExpressJs', 'Prisma', 'PostgreSQL', 'GitHub Actions', 'Jest'],
     },
   softSkills: ['Collaboration', 'Team Work', 'Communication'],
   goals: 'Expand my skills and knowledge, while achieving specific interpersonal and work objectives.'
@@ -32,13 +32,11 @@ const Julioadriglez{
     <td width="100px"><strong>HTML 5</strong></td>
     <td width="100px"><strong>CSS 3</strong></td>
     <td width="100px"><strong>Javascript</strong></td>
-    <td width="100px"><strong>Vue</strong></td>
   </tr>
   <tr align="center" height="60px">
     <td><img height="40px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></td>
     <td><img height="40px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></td>
     <td><img height="40px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></td>
-    <td><img height="32px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"></td>
   </tr>
 </table>
 
